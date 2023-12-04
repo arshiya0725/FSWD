@@ -1,0 +1,212 @@
+.subscribe-to-our {
+  position: absolute;
+  top: 191px;
+  left: 749.9px;
+  font-family: var(--font-itim);
+  display: inline-block;
+  width: 356.7px;
+  height: 71px;
+}
+.biometric-precision {
+  margin: 0;
+}
+.biometric-modalities-such-as-f {
+  margin-bottom: 0;
+}
+.utilizing-state-of-the-art-bio {
+  margin: 0;
+  padding-left: var(--padding-8xl);
+}
+.biometric-precision-utilizing-container {
+  position: absolute;
+  top: 181px;
+  left: 55.7px;
+  font-size: inherit;
+  display: inline-block;
+  width: 577.6px;
+  height: 517px;
+  font-family: var(--font-inika);
+}
+.group-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-powderblue);
+  width: 1800px;
+  height: 117px;
+}
+.contact-us {
+  position: absolute;
+  top: 77px;
+  left: 1120.7px;
+  font-size: var(--font-size-base);
+  display: inline-block;
+  color: var(--color-navy);
+  width: 107.4px;
+  height: 19px;
+  margin-left:100px;
+}
+.text {
+  top: 70px;
+  left: 978.9px;
+  font-size: var(--font-size-5xl);
+  width: 127.7px;
+  height: 35px;
+}
+.biometrica,
+.sign-in,
+.text {
+  position: absolute;
+  display: inline-block;
+}
+.sign-in {
+  top: 77px;
+  left: 1008.2px;
+  font-size: var(--font-size-base);
+  color: var(--color-navy);
+  width: 59.8px;
+  height: 19px;
+  cursor: pointer;
+}
+.biometrica {
+  top: 32px;
+  left: 133.8px;
+  font-family: var(--font-imprint-mt-shadow);
+  color: var(--color-indigo);
+  width: 271.6px;
+  height: 38px;
+}
+.subscribe-to-our-newsletters-parent {
+  position: absolute;
+  top: 0;
+  left: 16px;
+  width: 1294px;
+  height: 698px;
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-inter);
+}
+.image-2-icon {
+  position: absolute;
+  top: 4px;
+  left: 0;
+  width: 117px;
+  height: 117px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.macbook-air-3-child {
+  position: absolute;
+  top: 735px;
+  left: 0;
+  width: 1800px;
+  height: 119px;
+  mix-blend-mode: darken;
+  margin-top:50px;
+}
+.biometrica1,
+.for-any-queries {
+  position: absolute;
+  display: inline-block;
+  margin-top:50px;
+}
+.for-any-queries {
+  top: 756px;
+  left: 1018px;
+  font-size: var(--font-size-base);
+  font-family: var(--font-inter);
+  color: var(--color-gray-500);
+  width: 312px;
+  height: 48px;
+  margin-left:150px;
+}
+.biometrica1 {
+  top: 766px;
+  left: 517px;
+  font-family: var(--font-imprint-mt-shadow);
+  color: var(--color-midnightblue);
+  width: 259px;
+  margin-left:100px;
+}
+.all-rights-reserved,
+.your-unique-identity {
+  position: absolute;
+  display: inline-block;
+  height: 18px;
+}
+.all-rights-reserved {
+  top: 799px;
+  left: 440px;
+  font-size: var(--font-size-mini);
+  font-family: var(--font-inter);
+  width: 413px;
+  margin-top:60px;
+  margin-left:100px;
+}
+.your-unique-identity {
+  top: 90px;
+  left: 110px;
+  font-size: var(--font-size-base);
+  color: var(--color-darkviolet);
+  width: 727px;
+}
+.macbook-air-3-item {
+  position: absolute;
+  top: 437px;
+  left: 737px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  width: 385px;
+  height: 42px;
+}
+.macbook-air-3-inner {
+  position: absolute;
+  top: 437px;
+  left: 1136px;
+  background-color: var(--color-lightpink);
+  width: 127px;
+  height: 39px;
+}
+.stay-ahead-unlock {
+  position: absolute;
+  top: 317px;
+  left: 750px;
+  display: inline-block;
+  width: 471px;
+  height: 60px;
+  font-size:1.2rem;
+}
+.email-address,
+.submit {
+  position: absolute;
+  top: 439px;
+  left: 1158px;
+}
+.submit{
+  background-color:#FAB6B6;
+  font-size:1rem;
+  margin-top:6px;
+  margin-left:5px;
+  border-color:#FAB6B6;
+  
+
+}
+.email-address {
+  top: 407px;
+  left: 737px;
+  font-size:1.2rem;
+  display: inline-block;
+  width: 157px;
+  height: 25px;
+  margin-bottom:30px;
+}
+.macbook-air-3 {
+  position: relative;
+  background-color: var(--color-thistle);
+  width: 100%;
+  height: 903px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-itim);
+}

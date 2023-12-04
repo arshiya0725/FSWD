@@ -1,0 +1,53 @@
+body {
+    margin: 0;
+    line-height: normal;
+  }
+  
+  :root {
+    /* fonts */
+    --font-inter: Inter;
+    --font-jacques-francois: "Jacques Francois";
+    --font-inria-serif: "Inria Serif";
+    --font-imprint-mt-shadow: "Imprint MT Shadow";
+    --font-inria-sans: "Inria Sans";
+    --font-inknut-antiqua: "Inknut Antiqua";
+    --font-itim: Itim;
+    --font-inika: Inika;
+  
+    /* font sizes */
+    --font-size-base: 16px;
+    --font-size-xl: 20px;
+    --font-size-5xl: 24px;
+    --font-size-mini: 15px;
+    --font-size-13xl: 32px;
+    --font-size-sm: 14px;
+    --font-size-29xl: 48px;
+    --font-size-9xl: 28px;
+  
+    /* Colors */
+    --color-thistle: #d5cbf3;
+    --color-black: #000;
+    --color-paleturquoise-100: #c2eeee;
+    --color-navy: #150b87;
+    --color-gray-100: #1b1a1a;
+    --color-gray-200: #161414;
+    --color-gray-300: #131212;
+    --color-gray-400: #100f0f;
+    --color-gray-500: rgba(4, 4, 4, 0.98);
+    --color-midnightblue: rgba(35, 17, 86, 0.98);
+    --color-powderblue: #c3ebee;
+    --color-white: #fff;
+    --color-indigo: #651695;
+    --color-darkviolet: #a818da;
+    --color-lightpink: #fab6b6;
+    --color-silver: #d6b8b8;
+  
+    /* Paddings */
+    --padding-8xl: 27px;
+  
+    /* Border radiuses */
+    --br-mini: 15px;
+    --br-3xs: 10px;
+    --br-8xs: 5px;
+  }
+  
